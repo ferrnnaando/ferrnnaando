@@ -15,7 +15,11 @@
  
 > 📍 You can find me in Twitter (@ferrnnaando) ![](https://ferrnnaando.surge.sh/twitter.png)
  
-> 📍 You can find me in Telegram ([@ferrnnaando](https://t.me/ferrnnaando)) ![](https://ferrnnaando.surge.sh/telegram.png)
+> 📍 You can find me in Telegram ([@ferrnnaando](https://t.me/ferrnnaando)) ![](https://ferrnnaando.surge.sh/telegram.png) 
+
+> 📍 You can find me in Youtube ([@ferrnnaando](https://www.youtube.com/channel/UC3d3LvB9gQcvcJTKY9q6jCA)) ![](https://ferrnnaando.surge.sh/youtube.png) 
+
+https://www.youtube.com/channel/UC3d3LvB9gQcvcJTKY9q6jCA
  
 #
 ![](https://ferrnnaando.surge.sh/banner.png)
