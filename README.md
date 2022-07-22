@@ -11,7 +11,7 @@
 > 📫 For bussiness topics, contact me by mail. (azuagaferrnnaando@gmail.com)
  
 ## 📌 | Where can I find you?
- 📍 You can find me in Discord [ferrnnaando](https://discord.gg/DX9pkYVNwF) ![](https://ferrnnaando.surge.sh/logo.png)
+> 📍 You can find me in Discord ([ferrnnaando#1812](https://discord.gg/DX9pkYVNwF)) ![](https://ferrnnaando.surge.sh/logo.png)
  
 > 📍 You can find me in Twitter (@ferrnnaando)  ![](https://ferrnnaando.surge.sh/twitter.png)
  
