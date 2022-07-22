@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**ferrnnaando/ferrnnaando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 | Hello, I'm Fernando.
+> 🔩 I’m currently working on Laype Services.
+ 
+> 💻 I’m currently learning C++ and Lua.
+ 
+> 📡 Experience on Lua frameworks like ESX, QBCore and vRP.
+ 
+> 🔔 I’m looking to collaborate on C++ proyects.
+ 
+## 📫 | How to reach me?
+> 📫 For bussiness topics, contact me by mail. (azuagaferrnnaando@gmail.com)
+ 
+## 📌 | Where can I find you?
+> 📍 You can find me in Discord (ferrnnaando#1812) ![](https://ferrnnaando.surge.sh/logo.png)
+ 
+> 📍 You can find me in Twitter (@ferrnnaando)  ![](https://ferrnnaando.surge.sh/twitter.png)
+ 
+> 📍 You can find me in Telegram (@ferrnnaando) ![](https://ferrnnaando.surge.sh/telegram.png)
+ 
+#
+![](https://ferrnnaando.surge.sh/banner.png)
