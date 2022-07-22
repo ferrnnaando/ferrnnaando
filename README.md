@@ -1,7 +1,7 @@
 # 👋 | Hello, I'm Fernando.
 > 🔩 I’m currently working on Laype Services.
  
-> 💻 I’m currently learning C++ and Lua.
+> 💻 I’m currently learning C++ and PHP.
  
 > 📡 Experience on Lua frameworks like ESX, QBCore and vRP.
  
