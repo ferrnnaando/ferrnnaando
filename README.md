@@ -13,7 +13,7 @@
 ## 📌 | Where can I find you?
 > 📍 You can find me in Discord ([ferrnnaando#1812](https://discord.gg/DX9pkYVNwF)) ![](https://ferrnnaando.surge.sh/logo.png)
  
-> 📍 You can find me in Twitter (@ferrnnaando) ![](https://ferrnnaando.surge.sh/twitter.png)
+> 📍 You can find me in Twitter ([@ferrnnaando_](twitter.com/ferrnnaando_)) ![](https://ferrnnaando.surge.sh/twitter.png)
  
 > 📍 You can find me in Telegram ([@ferrnnaando](https://t.me/ferrnnaando)) ![](https://ferrnnaando.surge.sh/telegram.png) 
 
