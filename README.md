@@ -1,11 +1,11 @@
 # 👋 | Hello, I'm Fernando.
-> 🔩 I’m currently working on Laype Services.
+> 🔩 I’m currently working as a freelancer.
  
-> 💻 I’m currently learning C++ and PHP.
+> 💻 I’m currently learning JS and PHP.
  
-> 📡 Experience on Lua frameworks like ESX, QBCore and vRP.
+> 📡 Experience on HTML, CSS, C++
  
-> 🔔 I’m looking to collaborate on C++ proyects.
+> 🔔 I’m looking to collaborate in frontend proyects.
  
 ## 📫 | How to reach me?
 > 📫 For bussiness topics, contact me by mail. (azuagaferrnnaando@gmail.com).
