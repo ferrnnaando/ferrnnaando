@@ -1,9 +1,7 @@
 # 👋 | Hello, I'm Fernando.
 > 🔩 I’m currently working as a freelancer.
  
-> 💻 I’m currently learning JS and PHP.
- 
-> 📡 Experience on HTML, CSS, C++
+> 💻 I’m currently learning C++ and SQL
  
 > 🔔 I’m looking to collaborate in frontend proyects.
  
