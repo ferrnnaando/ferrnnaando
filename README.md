@@ -1,9 +1,9 @@
 # 👋 | Hello, I'm Fernando.
 > 🔩 I’m currently working as a freelancer.
  
-> 💻 I’m currently learning C++ and SQL
+> 💻 Experience on C++, SQL and Linux Bash,
  
-> 🔔 I’m looking to collaborate in frontend proyects.
+> 🔔 I’m looking to collaborate in backend proyects.
  
 ## 📫 | How to reach me?
 > 📫 For bussiness topics, contact me by mail. (azuagaferrnnaando@gmail.com).
