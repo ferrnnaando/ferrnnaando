@@ -14,6 +14,3 @@
 > 📍 You can find me in Discord ([dev.ferrnnaando]([https://discord.gg/DX9pkYVNwF](https://discord.gg/bYDhwFFVk5))) ![](https://ferrnnaando.surge.sh/logo.png)
 
 > 📍 You can find me in Instagram ([@ferrnnaando](https://instagram.com/ferrnnaando)) ![](https://ferrnnaando.surge.sh/youtube.png) 
- 
-#
-![](https://ferrnnaando.surge.sh/banner.png)
