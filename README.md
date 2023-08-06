@@ -19,7 +19,7 @@
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-username/)
 - 🐦 Reach out to me on [Twitter](https://twitter.com/your-handle/)
-- 📧 Email me at your.email@example.com
+- 📧 Email me at your.azuagaferrnnaando@gmail.com
 
 ## Thanks for Visiting
 
