@@ -1,8 +1,11 @@
-# Hello, I'm Fernando
+# Hi there! 👋 I'm [Your Name]
+
+I'm a 15-year-old aspiring developer with a strong interest in C++ and Assembly programming. Welcome to my GitHub profile! 
 
 ## About Me
-
-👋 Hi there! I'm a passionate 15-year-old developer with a love for C++ and Assembly programming. I enjoy diving into low-level code and creating efficient solutions. When I'm not coding, you can find me exploring the world of version control with Git, mastering Windows development, or getting my hands dirty in the Bash shell.
+- 🌱 Currently learning and exploring new technologies in the world of programming.
+- 👯 I enjoy collaborating on open-source projects and contributing to the programming community.
+- 💻 Experienced in Windows and bash environments, and always eager to learn more.
 
 ## Skills
 
