@@ -22,7 +22,7 @@ I'm a 15-year-old aspiring developer with a strong interest in C++ and Assembly 
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-username/)
 - 🐦 Reach out to me on [Twitter](https://twitter.com/your-handle/)
-- 📧 Email me at your.azuagaferrnnaando@gmail.com
+- 📧 Email me at azuagaferrnnaando@gmail.com
 
 ## Thanks for Visiting
 
