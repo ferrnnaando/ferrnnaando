@@ -14,7 +14,7 @@ I'm a 15-year-old aspiring developer with a strong interest in C++ and Assembly 
 
 ## Projects
 
-- 🚀 [Project Name]([https://github.com/your-username/project-name](https://github.com/ferrnnaando/minecraft)): A advanced implementation of a Minecraft 2D model inspired on the Minecraft user interface and game using SFML and C++.
+- 🚀 [Minecraft](https://github.com/ferrnnaando/minecraft): A advanced implementation of a Minecraft 2D model inspired on the Minecraft user interface and game using SFML and C++.
 - 🌟 [Another Project](https://github.com/your-username/another-project): Brief overview of the project.
 
 ## Get in Touch
