@@ -5,17 +5,16 @@ I'm a 15-year-old aspiring developer with a strong interest in C++ and Assembly 
 ## About Me
 - 🌱 Currently learning and exploring new technologies in the world of programming.
 - 👯 I enjoy collaborating on open-source projects and contributing to the programming community.
-- 💻 Experienced in Windows and bash environments, and always eager to learn more.
 
 ## Skills
 
 - **Languages:** C++, Assembly
-- **Tools:** Git, Visual Studio, Bash, GNUCs
-- **Platforms:** Windows, Linux
+- **Tools:** GNU, XCode, VS, VSC
+- **Platforms:** Windows, Linux, MacOS
 
 ## Projects
 
-- 🚀 [Project Name](https://github.com/your-username/project-name): Short project description goes here.
+- 🚀 [Project Name]([https://github.com/your-username/project-name](https://github.com/ferrnnaando/minecraft)): A advanced implementation of a Minecraft 2D model inspired on the Minecraft user interface and game using SFML and C++.
 - 🌟 [Another Project](https://github.com/your-username/another-project): Brief overview of the project.
 
 ## Get in Touch
