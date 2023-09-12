@@ -8,9 +8,9 @@ I'm a 15-year-old aspiring developer with a strong interest in C++ and Assembly 
 
 ## Skills
 
-- **Languages:** C#, C++, Assembly
-- **Tools:** GNU, XCode, VS, VSC
-- **Platforms:** Windows, Linux, MacOS
+- **Languages:** C#, C++, Assembly.
+- **Tools:** Git, Docker, Kubernetes.
+- **Platforms:** Windows, Linux, Ubuntu Server & VPS, MacOS.
 
 ## Projects
 
