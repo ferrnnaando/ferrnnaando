@@ -1,16 +1,16 @@
 # Hi there! 👋 I'm Fernando
 
-I'm a 21-year-old aspiring developer with a strong interest in C++ and Assembly programming. Welcome to my GitHub profile! 
+I'm a 17 year-old aspiring developer with a strong interest in Back-end developing.
 
 ## About Me
-- 🌱 Currently learning and exploring new technologies in the world of programming.
-- 👯 I enjoy collaborating on open-source projects and contributing to the programming community.
+- 🌱 Currently learning and exploring C# and Java in the world of programming.
+- 👯 I enjoy collaborating on open-source projects and sharing my work.
 
 ## Skills
 
-- **Languages:** C#, C++, Assembly.
-- **Tools:** Git, Docker, Kubernetes.
-- **Platforms:** Windows, Linux, Ubuntu Server & VPS, MacOS.
+- **Languages:** C#, Java
+- **Tools:** Git, Docker.
+- **Platforms:** Windows, Linux.
 
 ## Projects
 
@@ -20,9 +20,4 @@ I'm a 21-year-old aspiring developer with a strong interest in C++ and Assembly 
 ## Get in Touch
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-username/)
-- 🐦 Reach out to me on [Twitter](https://twitter.com/your-handle/)
-- 📧 Email me at azuagaferrnnaando@gmail.com
-
-## Thanks for Visiting
-
-Thanks for checking out my profile! If you find my projects interesting or have any feedback, I'd love to hear from you. Happy coding! 🚀
+- 📧 Email me at me@fernandoazuaga.com
