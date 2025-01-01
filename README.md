@@ -2,6 +2,6 @@
 
 `/github/mywebsite` My personal website, which I also use as a blogsite, is [fernandoazuaga.vercel.app](https://fernandoazuaga.vercel.app/)
 
-`/github/experience` I have a long experience with JavaScript, TypeScript and React.
+`/github/experience` I have a long experience with languages like JavaScript and TypeScript within frameworks like React.
 
 `/github/about` I'm 17 years old and I'm from Spain. I love doing what I do and I can speak Spanish, English and Russian.
